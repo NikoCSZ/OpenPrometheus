@@ -1,0 +1,32 @@
+OpenPrometheus — Hardware, CAD and Documentation License
+=========================================================
+
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International (CC BY-NC-SA 4.0)
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+The original hardware design files, CAD models, drawings, manufacturing
+information, and project documentation published as part of OpenPrometheus
+are made available under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International license, unless a file explicitly states a
+different license or third-party rights apply.
+
+Official license deed:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Full legally binding license text (Legal Code):
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+You may share and adapt the licensed material subject to the conditions
+of that license, including attribution, noncommercial use, and share-alike
+requirements. The official Legal Code governs; this notice is not a
+replacement for it.
+
+Note: The license applies only to rights the licensor can grant. In
+particular, licensing CAD files does not necessarily grant patent rights
+or independently regulate every physical use of a design.
+
+Software, firmware and scripts developed specifically for OpenPrometheus
+are licensed separately; see LICENSE-SOFTWARE.
+
+Third-party components retain their respective licenses.
