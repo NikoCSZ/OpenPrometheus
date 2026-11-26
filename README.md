@@ -34,6 +34,16 @@ OpenPrometheus is currently in the early design and development stage. Its archi
 
 The project is experimental and has not been validated for operational use. LPBF involves significant laser, thermal, and metal-powder hazards and requires appropriate engineering controls and safety systems.
 
+## Safety
+
+OpenPrometheus is an experimental project involving
+potentially hazardous laser and metal-powder technologies.
+
+The machine has not been validated for safe operation.
+
+See [SAFETY.md](./SAFETY.md) for important safety
+information and limitations.
+
 ## License
 
 **OpenPrometheus** uses a dual-licensing model to keep both the physical designs and the codebase open to the community:
